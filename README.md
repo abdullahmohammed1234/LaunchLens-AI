@@ -335,4 +335,4 @@ npm run db:studio    # Open Prisma Studio
 
 ## License
 
-This project was built as a submission project. All rights reserved unless otherwise specified.
+MIT
